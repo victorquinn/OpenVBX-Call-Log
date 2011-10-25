@@ -1,12 +1,12 @@
 {
     "name" : "Call Log",
-    "author" : "Jonathan Kressaty <jonathan.kressaty@gmail.com>",
-    "description" : "Basic call log for OpenVBX",
-    "url" : "http://openvbx.org",
+    "author" : "Victor Quinn <mail@victorquinn.com>",
+    "description" : "Basic call log for OpenVBX. Fork of Jonathan Kressaty <jonathan.kressaty@gmail.com>'s plugin",
+    "url" : "http://victorquinn.com",
     "links" : [{
-                        "menu" : "Call Log",
-                        "url" : "call_log",
-                        "script" : "call_log.php",
-                        "label" : "Call Log"
-                }]
+                 "menu" : "Logs",
+                 "url" : "call_log",
+                 "script" : "call_log.php",
+                 "label" : "Calls"
+              }]
 }
